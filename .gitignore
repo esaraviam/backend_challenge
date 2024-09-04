@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Compiled output
+dist/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.suo
+*.user
+*.userosscache
+*.sln
+*.sw?
+
+# Build files
+coverage/
+*.tgz
+*.tar.gz
+*.zip
+
+# Test reports
+test-results/
