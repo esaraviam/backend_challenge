@@ -10,7 +10,6 @@ app.use(cors())
 
 app.use(express.json());
 
-
 app.get("/products" , (req, res) => {
   res.status(200).send("Hello World!");
 })
